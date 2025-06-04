@@ -8,8 +8,10 @@ Un projet web qui recrée l'ambiance des anciens menus TV ou DVD avec :
 
 ## 📸 Aperçu
 
-![Capture d’écran du menu rétro](./assets/menu.png) 
-![Capture de l'écran de logo DVD](./assets/dvd.png)
+<p align="center">
+  <img src="./assets/menu.png" alt="Menu rétro" width="45%" />
+  <img src="./assets/dvd.png" alt="Logo DVD" width="45%" />
+</p>
 
 ## 🚀 Fonctionnalités
 
